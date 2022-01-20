@@ -5,13 +5,6 @@
 
 扫描下方二维码关注，精彩干货，第一时间送达！
 
-<center>
-
-![](http://iottown.sewain100.cn/iottown_end2.png)
-
-</center>
-
-
 ## C 语言
 
 [《啊哈C语言》](https://pan.baidu.com/s/1DqFPUekR0cnkvf4W5Su9Hw) 提取码:w1hd
@@ -357,12 +350,6 @@
 
 [《把自己作为方法 与项飙谈话》](https://pan.baidu.com/s/18Hb_AQMtlnyardb0KpGjOw) 提取码:v08b
 
-
-<center>
-
-![](http://iottown.sewain100.cn/iottown_end2.png)
-
-</center>
 
 <font color=orange>
 书不贵多，贵于精！
